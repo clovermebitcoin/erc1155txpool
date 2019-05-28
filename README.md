@@ -7,6 +7,11 @@ Nethereum - C# library for Ethereum web3, etc<br>
 Infura.io Account - Free API service to interface with Ethereum<br>
  
  
+Input:<br>
+Sender: 0xdf9cc14f54c0148ef3d9cdd3a58fa2425bf6ce46<br>
+Recip: 0xcce9ab89c453cedad771f5edefe44c13881739c1<br>
+ERC1155 ID: 0x780000000000022e000000000000000000000000000000000000000000000000<br>
+
  Sample Output:<br>
 1<br>
 [<br>
